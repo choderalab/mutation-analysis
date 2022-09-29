@@ -1,0 +1,10 @@
+name: mutation-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - nglview
+  - jupyter_contrib_nbextensions
+  - ipywidgets[version='<8']
+  - seaborn
+prefix: /Users/jscheen/miniconda3/envs/mutation-analysis
